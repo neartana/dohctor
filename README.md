@@ -150,5 +150,5 @@ Dohctor is not affiliated with or endorsed by the doh-mcp project.
 
 ## 📄 License
 
-[MIT](LICENSE) © Farizh (neartana) — for the skill in this repository.
+[MIT](LICENSE) © neartana — for the skill in this repository.
 The `doh-mcp` binary remains under the Apache License 2.0 (upstream).

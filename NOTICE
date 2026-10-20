@@ -1,7 +1,7 @@
 Dohctor — attribution notice
 
 The Dohctor skill (SKILL.md, scripts/doh.mjs, bin/install.js, README) is
-MIT-licensed, Copyright (c) 2026 Farizh (neartana). See LICENSE.
+MIT-licensed, Copyright (c) 2026 neartana. See LICENSE.
 
 The MCP server this skill drives is NOT part of this repository. At install
 time, bin/install.js downloads the official release binary of:
