@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.webp" width="160" alt="Dohctor logo">
+  <img src="assets/logo-emblem.webp" width="160" alt="Dohctor logo">
   <h1 align="center">🩺 Dohctor</h1>
   <p align="center">A DNS-over-HTTPS <i>doctor</i> for your AI agent — diagnose a poisoned resolver, then heal the fetch.</p>
   <p align="center">
