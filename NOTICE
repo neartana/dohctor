@@ -1,0 +1,17 @@
+Dohctor — attribution notice
+
+The Dohctor skill (SKILL.md, scripts/doh.mjs, bin/install.js, README) is
+MIT-licensed, Copyright (c) 2026 Farizh (neartana). See LICENSE.
+
+The MCP server this skill drives is NOT part of this repository. At install
+time, bin/install.js downloads the official release binary of:
+
+    doh-mcp — MCP server for DNS-over-HTTPS
+    https://github.com/99apps-id/doh-mcp
+    Copyright (c) 99apps-id — Apache License, Version 2.0
+
+from that project's GitHub Releases page. The binary remains under the
+Apache License, Version 2.0; its full license text ships with the upstream
+project at https://github.com/99apps-id/doh-mcp/blob/main/LICENSE.
+Dohctor is an independent agent-skill wrapper and is not affiliated with or
+endorsed by the doh-mcp project.
